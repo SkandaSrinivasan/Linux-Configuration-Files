@@ -1,0 +1,14 @@
+{
+   "dummy": {
+      "message": "dummy"
+   },
+   "extDescription": {
+      "message": "Seamlessly integrates IMDb Ratings into Netflix. Never waste time on bad movies or TV shows ever again!"
+   },
+   "extName": {
+      "message": "IMDb Ratings for Netflix™"
+   },
+   "extShortName": {
+      "message": "IMDb4NF"
+   }
+}

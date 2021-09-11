@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=kasumaasuma@live.com
+Enabled=true
+Parent=45cd8364dfacf0d20b9814fffc787000f688ff5d
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=c640f9417a7d69e82a66bd3c995fe194bbdf0782
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=kasumaasuma@live.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

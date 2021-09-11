@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=kasumaasuma@live.com
+Enabled=true
+Parent=45cd8364dfacf0d20b9814fffc787000f688ff5d
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=kasumaasuma@live.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp
