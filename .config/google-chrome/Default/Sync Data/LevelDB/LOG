@@ -1,3 +1,9 @@
 2021/09/11-15:45:01.622 310f Reusing MANIFEST /home/skanda/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
 2021/09/11-15:45:01.622 310f Recovering log #3
 2021/09/11-15:45:01.623 310f Reusing old log /home/skanda/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2021/09/11-15:55:55.999 35c0 Level-0 table #5: started
+2021/09/11-15:55:56.004 35c0 Level-0 table #5: 185450 bytes OK
+2021/09/11-15:55:56.006 35c0 Delete type=0 #3
+2021/09/11-16:07:53.005 38d8 Level-0 table #7: started
+2021/09/11-16:07:53.009 38d8 Level-0 table #7: 108086 bytes OK
+2021/09/11-16:07:53.018 38d8 Delete type=0 #4
