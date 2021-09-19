@@ -1,3 +1,0 @@
-Shakti
-Srikkanth
-checksum_v1 = 998353da5f34c304bd2a965a957c41ab
