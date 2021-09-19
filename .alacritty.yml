@@ -16,32 +16,32 @@ font:
     style: Bold Italic
 
   size: 12
-
-  # Colors (iTerm 2 default theme)
 colors:
   # Default colors
   primary:
-    background: '#101421'
-    foreground: '#fffbf6'
+    background: '0x0A0E14'
+    foreground: '0xB3B1AD'
 
- # Normal colors
+  # Normal colors
   normal:
-    black:   '#2e2e2e'
-    red:     '#eb4129'
-    green:   '#abe047'
-    yellow:  '#f6c744'
-    blue:    '#47a0f3'
-    magenta: '#7b5cb0'
-    cyan:    '#64dbed'
-    white:   '#e5e9f0'
+    black:   '0x01060E'
+    red:     '0xEA6C73'
+    green:   '0x91B362'
+    yellow:  '0xF9AF4F'
+    blue:    '0x53BDFA'
+    magenta: '0xFAE994'
+    cyan:    '0x90E1C6'
+    white:   '0xC7C7C7'
 
- # Bright colors
+  # Bright colors
   bright:
-    black:   '#565656'
-    red:     '#ec5357'
-    green:   '#c0e17d'
-    yellow:  '#f9da6a'
-    blue:    '#49a4f8'
-    magenta: '#a47de9'
-    cyan:    '#99faf2'
-    white:   '#ffffff'
+    black:   '0x686868'
+    red:     '0xF07178'
+    green:   '0xC2D94C'
+    yellow:  '0xFFB454'
+    blue:    '0x59C2FF'
+    magenta: '0xFFEE99'
+    cyan:    '0x95E6CB'
+    white:   '0xFFFFFF'
+background_opacity: 0.0
+
